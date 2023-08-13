@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+time python3 s3_upload.py --video_name test-archery.mp4 --bucket human-action-recognition-bucket
